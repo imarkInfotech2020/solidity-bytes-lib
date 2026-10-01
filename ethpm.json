@@ -1,0 +1,13 @@
+{
+  "package_name": "bytes",
+  "version": "0.8.0",
+  "description": "Solidity bytes tightly packed arrays utility library.",
+  "keywords": [
+    "bytes",
+    "utils",
+    "solidity",
+    "library"
+  ],
+  "dependencies": {},
+  "license": "Unlicense"
+}
